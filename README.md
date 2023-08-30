@@ -2,8 +2,6 @@
 
 ![banner](https://github.com/ajsb85/carbon82.ai/assets/663460/bdecceeb-e7c3-4b23-b431-379c733f7b62)
 
-
-
 # VR Headset + AMB82
 
 _3D print your Cardboard and the AMB82 enclosure with this project._
@@ -21,3 +19,11 @@ https://code.videolan.org/videolan/vlc/-/issues/11754
 
 Development documentation
 https://developers.google.com/cardboard/develop
+
+# M-CAD Design in progress
+
+Please look at the **mcad** folder of this repository to download the STL files for printing purposes.
+We are adding the AMB82-MINI dev board on the top of the headset.
+
+![01 131](https://github.com/ajsb85/carbon82.ai/assets/663460/5bfcb378-74a0-4992-ae05-e98cc5cfb026)
+![01 133](https://github.com/ajsb85/carbon82.ai/assets/663460/e9609ab1-1d26-43dd-b412-5ff63f85ee5d)

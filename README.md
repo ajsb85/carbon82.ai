@@ -14,15 +14,19 @@ With a wide variety of viewers, you're sure to find one that fits you just right
 
 VLC does not yet support cardboard SDK
 
-### How to reproduce RTSP URL's on VLC on the mobile
-![image](https://github.com/ajsb85/carbon82.ai/assets/663460/c4715b4f-de5e-4b34-9baa-b29c624e316e)
-
-
 Please thumb up here
 https://code.videolan.org/videolan/vlc/-/issues/11754
 
 Development documentation
 https://developers.google.com/cardboard/develop
+
+### How to reproduce RTSP URL's on VLC on the mobile
+![image](https://github.com/ajsb85/carbon82.ai/assets/663460/c4715b4f-de5e-4b34-9baa-b29c624e316e)
+
+While we add the support to the Cardboard view inside the Ameba SoC or to VLC or custom app, we recommend using this app in Android for testing purposes:
+
+Home Theater VR
+https://play.google.com/store/apps/details?id=com.blevok.HomeTheaterVR
 
 ## New sexy UI/UX to display the bounding boxes
 

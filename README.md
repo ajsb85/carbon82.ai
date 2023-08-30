@@ -1,6 +1,8 @@
 # CARBON82 AI
 
-Augmented Reality with AMB82 and VR Headsets
+![banner](https://github.com/ajsb85/carbon82.ai/assets/663460/bdecceeb-e7c3-4b23-b431-379c733f7b62)
+
+
 
 # VR Headset + AMB82
 

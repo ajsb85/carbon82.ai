@@ -22,8 +22,8 @@ https://developers.google.com/cardboard/develop
 
 # M-CAD Design in progress
 
-Please look at the **mcad** folder of this repository to download the STL files for printing purposes.
-We are adding the AMB82-MINI dev board on the top of the headset.
+Please look at the **mcad** folder of this repository to download the STEP file format for printing purposes.
+We are adding the AMB82-MINI dev board in the coming days.
 
 ![01 131](https://github.com/ajsb85/carbon82.ai/assets/663460/5bfcb378-74a0-4992-ae05-e98cc5cfb026)
 ![01 133](https://github.com/ajsb85/carbon82.ai/assets/663460/e9609ab1-1d26-43dd-b412-5ff63f85ee5d)

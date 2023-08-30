@@ -21,11 +21,14 @@ Development documentation
 https://developers.google.com/cardboard/develop
 
 ### How to reproduce RTSP URL's on VLC on the mobile
-![image](https://github.com/ajsb85/carbon82.ai/assets/663460/c4715b4f-de5e-4b34-9baa-b29c624e316e)
+
+External website:
+https://www.digitbin.com/play-online-video-in-vlc-player/
 
 While we add the support to the Cardboard view inside the Ameba SoC or to VLC or custom app, we recommend using this app in Android for testing purposes:
 
 Home Theater VR
+
 https://play.google.com/store/apps/details?id=com.blevok.HomeTheaterVR
 
 ## New sexy UI/UX to display the bounding boxes

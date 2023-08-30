@@ -10,7 +10,7 @@ Google Cardboard brings immersive experiences to everyone simply and affordably.
 
 With a wide variety of viewers, you're sure to find one that fits you just right.
 
-# Smpartphone APP for RTSP Protocol
+# Mobile App for RTSP Protocol
 
 VLC does not yet support cardboard SDK
 

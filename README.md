@@ -44,4 +44,8 @@ We are adding the AMB82-MINI dev board in the coming days.
 ![01 131](https://github.com/ajsb85/carbon82.ai/assets/663460/5bfcb378-74a0-4992-ae05-e98cc5cfb026)
 ![01 133](https://github.com/ajsb85/carbon82.ai/assets/663460/e9609ab1-1d26-43dd-b412-5ff63f85ee5d)
 
+## Contact
+
+![WeChat](https://raw.githubusercontent.com/ajsb85/vane.ai/main/press/contact-dark.png#gh-dark-mode-only)
+![WeChat](https://raw.githubusercontent.com/ajsb85/vane.ai/main/press/contact-light.png#gh-light-mode-only)
 
